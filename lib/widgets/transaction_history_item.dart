@@ -12,8 +12,7 @@ class TransactionHistoryItem extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 420,
-      height: 78,
+      margin: const EdgeInsetsDirectional.only(top: 12),
       decoration: ShapeDecoration(
         color: const Color(0xFFFAFAFA),
         shape: RoundedRectangleBorder(

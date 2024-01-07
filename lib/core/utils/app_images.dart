@@ -5,6 +5,10 @@ class Assets {
   /// assets/images/bankcard.svg
   static const String imagesBankcard = "assets/images/bankcard.svg";
 
+  /// Assets for imagesBottoncard
+  /// assets/images/bottoncard.svg
+  static const String imagesBottoncard = "assets/images/bottoncard.svg";
+
   /// Assets for imagesCardReceive
   /// assets/images/card-receive.svg
   static const String imagesCardReceive = "assets/images/card-receive.svg";
@@ -12,6 +16,14 @@ class Assets {
   /// Assets for imagesCardSend
   /// assets/images/card-send.svg
   static const String imagesCardSend = "assets/images/card-send.svg";
+
+  /// Assets for imagesCardcolor
+  /// assets/images/cardcolor.svg
+  static const String imagesCardcolor = "assets/images/cardcolor.svg";
+
+  /// Assets for imagesChart
+  /// assets/images/chart.svg
+  static const String imagesChart = "assets/images/chart.svg";
 
   /// Assets for imagesItem1
   /// assets/images/item1.svg
@@ -44,6 +56,10 @@ class Assets {
   /// Assets for imagesMoneys
   /// assets/images/moneys.svg
   static const String imagesMoneys = "assets/images/moneys.svg";
+
+  /// Assets for imagesTopcard
+  /// assets/images/topcard.svg
+  static const String imagesTopcard = "assets/images/topcard.svg";
 
   /// Assets for imagesUsericon
   /// assets/images/usericon.svg
